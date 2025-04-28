@@ -36,7 +36,7 @@ python -m venv env
 3. **Instalar dependencias**
 
 ```bash
-pip install jupyter matplotlib numpy pandas scipy scikit-learn ipykernel kagglehub
+pip install jupyter matplotlib numpy pandas scipy scikit-learn ipykernel kagglehub wikipedia
 ```
 
 ---
